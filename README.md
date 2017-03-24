@@ -7,21 +7,12 @@
 ![Simulator Screen Shot 2017年3月24日 下午3.06.47.png](http://upload-images.jianshu.io/upload_images/1733477-cd7749f764256ff9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ![Simulator Screen Shot 2017年3月24日 下午3.07.22.png](http://upload-images.jianshu.io/upload_images/1733477-e84b97058b8d4790.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ![Simulator Screen Shot 2017年3月24日 下午3.07.47.png](http://upload-images.jianshu.io/upload_images/1733477-86b556112db5c016.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-![Simulator Screen Shot 2017年3月24日 下午3.07.56.png](http://upload-images.jianshu.io/upload_images/1733477-f7060b2d0b042ef9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-![Simulator Screen Shot 2017年3月24日 下午3.08.00.png](http://upload-images.jianshu.io/upload_images/1733477-f9db63951ceed8ab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-![Simulator Screen Shot 2017年3月24日 下午3.08.27.png](http://upload-images.jianshu.io/upload_images/1733477-569719f296d30c2b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ![Simulator Screen Shot 2017年3月24日 下午3.08.30.png](http://upload-images.jianshu.io/upload_images/1733477-9f438b9cef0af0ab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-![Simulator Screen Shot 2017年3月24日 下午3.08.33.png](http://upload-images.jianshu.io/upload_images/1733477-e1fd769350a36349.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-![Simulator Screen Shot 2017年3月24日 下午3.08.35.png](http://upload-images.jianshu.io/upload_images/1733477-5fcd134d5368090e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-![Simulator Screen Shot 2017年3月24日 下午3.08.42.png](http://upload-images.jianshu.io/upload_images/1733477-0db195796620ef41.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ![Simulator Screen Shot 2017年3月24日 下午3.08.45.png](http://upload-images.jianshu.io/upload_images/1733477-0db417b7f9770bb8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-![Simulator Screen Shot 2017年3月24日 下午3.08.47.png](http://upload-images.jianshu.io/upload_images/1733477-9246509bd2832d59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-![Simulator Screen Shot 2017年3月24日 下午3.08.49.png](http://upload-images.jianshu.io/upload_images/1733477-44fd2ba01b45f9fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ![Simulator Screen Shot 2017年3月24日 下午3.08.51.png](http://upload-images.jianshu.io/upload_images/1733477-75a26dccb5a40450.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ![Simulator Screen Shot 2017年3月24日 下午3.08.53.png](http://upload-images.jianshu.io/upload_images/1733477-b01283e40e32bb28.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ![Simulator Screen Shot 2017年3月24日 下午3.09.27.png](http://upload-images.jianshu.io/upload_images/1733477-e1a1c9f7e9fa8c56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-![Simulator Screen Shot 2017年3月24日 下午3.09.32.png](http://upload-images.jianshu.io/upload_images/1733477-3634ece7adf77ab4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-![Simulator Screen Shot 2017年3月24日 下午3.09.46.png](http://upload-images.jianshu.io/upload_images/1733477-dd11109aeecbb013.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+
 
 
 
