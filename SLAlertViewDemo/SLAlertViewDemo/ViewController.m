@@ -30,8 +30,13 @@
 
 #pragma mark - actionSheet
 - (IBAction)sheet_default:(id)sender {
-    // 通过block回调方式创建
-    [SLAlertView alertViewWithTitle:@"actionSheet" message:@"sheet_default" preferredStyle:SLAlertViewStyleActionSheet cancelButtonTitle:@"cancel" otherButtonTitles:@[@"other1",@"other2",@"other3"] clickHandler:^(SLAlertView * _Nonnull alertView, NSInteger buttonIndex, NSString * _Nullable buttonTitle) {
+    // 通过block回调方式创建action sheet
+    [SLAlertView alertViewWithTitle:@"actionSheet"
+                            message:@"sheet_default"
+                     preferredStyle:SLAlertViewStyleActionSheet
+                  cancelButtonTitle:@"cancel"
+                  otherButtonTitles:@[@"other1",@"other2",@"other3"]
+                       clickHandler:^(SLAlertView * _Nonnull alertView, NSInteger buttonIndex, NSString * _Nullable buttonTitle) {
          NSLog(@"block sheet_default %ld-%@",buttonIndex,buttonTitle);
     }];
 }
@@ -41,7 +46,13 @@
 }
 
 - (IBAction)sheet_noTitle:(id)sender {
-    [SLAlertView alertViewWithTitle:nil message:@"this is message" delegate:self preferredStyle:SLAlertViewStyleActionSheet cancelButtonTitle:@"cancel" otherButtonTitles:@[@"other"]];
+    // action sheet
+    [SLAlertView alertViewWithTitle:nil
+                            message:@"this is message"
+                           delegate:self
+                     preferredStyle:SLAlertViewStyleActionSheet
+                  cancelButtonTitle:@"cancel"
+                  otherButtonTitles:@[@"other"]];
 }
 
 - (IBAction)sheet_noMessage:(id)sender {
@@ -117,8 +128,13 @@
 
 #pragma mark - alert
 - (IBAction)alert_default:(id)sender {
-    // 通过block回调方式创建
-    [SLAlertView alertViewWithTitle:@"title" message:@"message" preferredStyle:SLAlertViewStyleAlert cancelButtonTitle:@"cancel" otherButtonTitles:@[@"other"] clickHandler:^(SLAlertView * _Nonnull alertView, NSInteger buttonIndex, NSString * _Nullable buttonTitle) {
+    // 通过block回调方式创建alert
+    [SLAlertView alertViewWithTitle:@"title"
+                            message:@"message"
+                     preferredStyle:SLAlertViewStyleAlert
+                  cancelButtonTitle:@"cancel"
+                  otherButtonTitles:@[@"other"]
+                       clickHandler:^(SLAlertView * _Nonnull alertView, NSInteger buttonIndex, NSString * _Nullable buttonTitle) {
         
         NSLog(@"block %ld-%@",buttonIndex,buttonTitle);
         
@@ -127,7 +143,13 @@
 }
 - (IBAction)alert_onlyCancel:(id)sender {
     // 使用代理
-    [SLAlertView alertViewWithTitle:@"title" message:@"messagemessagemessagemessagemessagemessagemessagemessaemessagemessage" delegate:self preferredStyle:SLAlertViewStyleAlert cancelButtonTitle:@"cancel" otherButtonTitles:nil];
+    // alert
+    [SLAlertView alertViewWithTitle:@"title"
+                            message:@"messagemessagemessagemessagemessagemessagemessagemessaemessagemessage"
+                           delegate:self
+                     preferredStyle:SLAlertViewStyleAlert
+                  cancelButtonTitle:@"cancel"
+                  otherButtonTitles:nil];
 }
 - (IBAction)alert_onlyOneOther:(id)sender {
     
