@@ -3,7 +3,7 @@
 
 # 效果图
 
-![Simulator Screen Shot 2017年3月24日 下午3.06.40.png](http://upload-images.jianshu.io/upload_images/1733477-cb4f4562ceee7c38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Simulator Screen Shot 2017年3月24日 下午3.06.40.png](http://upload-images.jianshu.io/upload_images/1733477-cb4f4562ceee7c38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/360)
 ![Simulator Screen Shot 2017年3月24日 下午3.06.47.png](http://upload-images.jianshu.io/upload_images/1733477-cd7749f764256ff9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![Simulator Screen Shot 2017年3月24日 下午3.07.22.png](http://upload-images.jianshu.io/upload_images/1733477-e84b97058b8d4790.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![Simulator Screen Shot 2017年3月24日 下午3.07.47.png](http://upload-images.jianshu.io/upload_images/1733477-86b556112db5c016.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
