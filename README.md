@@ -1,22 +1,22 @@
 # SLAlertView
 简约自由定制的弹窗Alert&amp;ActionSheet
 
-#效果图
+# 效果图
 
 ![SLAlertView.gif](http://upload-images.jianshu.io/upload_images/1733477-9315f39ef1b19f81.gif?imageMogr2/auto-orient/strip)
 
 
-#项目介绍
->* 这是一款简约系统风格的弹窗，开发者可通过一句代码创建并弹出。
+# 项目介绍
+* 这是一款简约系统风格的弹窗，开发者可通过一句代码创建并弹出。
 * 开发者可以选择通过代理的方式或者block的方式来监听按钮的点击事件。
 * 开发者可通过settingHandler设置弹窗的背景颜色、字体颜色、字体以及分割线的颜色以满足不同风格的app的需求
 * 更加详尽的使用情况请下载demo
 
-#使用说明
-###安装
+# 使用说明
+### 安装
 将demo中的SLAlertView文件夹拖入项目
 ![SLAlertView文件夹.png](http://upload-images.jianshu.io/upload_images/1733477-f5457010e934b4d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-###接口说明
+### 接口说明
 ```
 /**
  *  创建并弹出使用代理监听点击事件的默认的alertView
@@ -110,7 +110,7 @@
 - (void)actionSheet:(SLActionSheet * _Nonnull)actionSheet didSelectedButtonWithButtonIndex:(NSInteger)index buttonTitle:(NSString * _Nullable)buttonTitle;
 
 ```
-###调用
+### 调用
 * 导入头文件
 ```
 #import "SLAlertView.h"
