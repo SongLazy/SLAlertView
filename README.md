@@ -15,6 +15,7 @@
 # 使用说明
 ### 安装
 将demo中的SLAlertView文件夹拖入项目
+
 ![SLAlertView文件夹.png](http://upload-images.jianshu.io/upload_images/1733477-f5457010e934b4d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### 接口说明
 ```
